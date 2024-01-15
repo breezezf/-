@@ -14,8 +14,3 @@ roading.progress(100, '加载完毕！')
 # 两个参数的作用分别是？
 
 # 挑战：制作一个倒计时进度条，让进度条逐渐从100%变为0%
-roading = st.progress(__, '开始倒计时')
-for i in range(__, __, __):
-    time.sleep(0.02)
-    roading.progress(i, '正在倒数'+str(i)+'%')
-roading.progress(__, '计时结束！')
