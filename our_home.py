@@ -3,7 +3,7 @@ import streamlit as st
 
 st.write(':orange[:sunglasses: PythonXXX班级的根据地 :sunglasses:]')
 
-st.image("logo.png")
+
 st.write('-----------------------------------------------')
 st.text(
 '''这里是PythonXXX班级的根据地。由XXX老师和他的同学们一同创建。
